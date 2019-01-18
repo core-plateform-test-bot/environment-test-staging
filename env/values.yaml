@@ -15,7 +15,7 @@ expose:
   - --v
   - 4
   config:
-    domain: cb-bugbash-shipyard.kozow.com
+    domain: ckcd-e2e.kozow.com
     exposer: Ingress
     http: "false"
     tlsacme: "true"
